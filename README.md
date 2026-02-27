@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a6e,100:00d4ff&height=220&section=header&text=ROOP%20KIRAN&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Application%20Developer%20%7C%20Storage%20Stack%20Researcher%20%7C%20PhD%20%40%20Iowa%20State&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a6e,100:00d4ff&height=220&section=header&text=ROOP%20KIRAN&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Application%20Developer%20%7C%20Storage%20Stack%20Researcher%20%7C%20PhDStudent%20%40%20Iowa%20State&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
 ```
- ✦ ˚ · .  Somewhere between a server rack and a star,  . · ˚ ✦
-         I found my place in the universe —
-         building applications that breathe,
-         studying storage stacks that remember,
-         teaching machines to see —
-         in a lab at the edge of the midwest sky.
+  ✦ ˚ · .  Somewhere between a server rack and a star,  . · ˚ ✦
+           I found my place in the universe —
+           building applications that breathe,
+           studying storage stacks that remember,
+           teaching machines to see —
+           in a lab at the edge of the midwest sky.
 ```
 
 </div>
@@ -108,7 +108,7 @@ class RoopKiran:
 **━━━  Languages & Frameworks  ━━━**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff&labelColor=0d1117)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0d1117)
+
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=c&logoColor=239120&labelColor=0d1117)
 ![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0d1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117)
