@@ -29,7 +29,7 @@
 <!-- Role badges -->
 <img src="https://img.shields.io/badge/💻 Application Developer-00d4ff?style=for-the-badge&labelColor=0d0d2b&color=00d4ff" />
 <img src="https://img.shields.io/badge/🗄️ Storage Stack Researcher-a78bfa?style=for-the-badge&labelColor=0d0d2b&color=a78bfa" />
-<img src="https://img.shields.io/badge/🎓 PhD @ Iowa State-4a90d9?style=for-the-badge&labelColor=0d0d2b&color=4a90d9" />
+<img src="https://img.shields.io/badge/🎓 PhD Student @ Iowa State-4a90d9?style=for-the-badge&labelColor=0d0d2b&color=4a90d9" />
 
 </div>
 
