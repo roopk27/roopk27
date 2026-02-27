@@ -7,12 +7,12 @@
 <div align="center">
 
 ```
-                        ✦ ˚ · .  Somewhere between a server rack and a star,  . · ˚ ✦
-                                   I found my place in the universe —
-                                   building applications that breathe,
-                                   studying storage stacks that remember,
-                                   teaching machines to see —
-                                   in a lab at the edge of the midwest sky.
+        ✦ ˚ · .  Somewhere between a server rack and a star,  . · ˚ ✦
+                  I found my place in the universe —
+                  building applications that breathe,
+                  studying storage stacks that remember,
+                  teaching machines to see —
+                  in a lab at the edge of the midwest sky.
 ```
 
 </div>
@@ -167,7 +167,7 @@ class RoopKiran:
 |:---:|:---:|
 | 🟢 Code compiles on first try | 🎵 Coldplay — peaceful, floating, cinematic |
 | 🔵 Model finally converges | 🌊 Hans Zimmer — epic, orchestral, triumphant |
-| 🟡 Stack trace 47 lines deep | 🥁 System of a Down — chaotic but rhythmic |
+| 🟡 Stack trace 47 lines deep | 🎸 Linkin Park — intense, relatable, in the zone |
 | 🔴 Segfault at 2am | 🎸 Metallica — loud, fast, no mercy |
 | ⚫ Monday morning debugging | ☕ Lo-fi beats — just survive |
 
