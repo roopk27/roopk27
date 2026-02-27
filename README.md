@@ -70,6 +70,7 @@ class RoopKiran:
         "Scalable Application Architecture",
         "Storage Systems & I/O Optimization",
         "Neural Architectures & Deep Learning",
+        "Finding Answers to every why."
         "The question no one has asked yet"
     ]
 
