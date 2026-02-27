@@ -36,9 +36,6 @@
 ---
 
 ## `> TRANSMISSION BEGINS...` 🛰️
-
-<img align="right" width="280" style="border-radius: 16px; border: 2px solid #00d4ff;" src="https://raw.githubusercontent.com/roopk27/roopk27/main/profile.jpg" alt="Roop Kiran" />
-
 ```python
 class RoopKiran:
     """
