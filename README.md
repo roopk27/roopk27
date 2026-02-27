@@ -166,7 +166,7 @@ class RoopKiran:
 | 🟢 Code compiles on first try | 🎵 Coldplay — peaceful, floating, cinematic |
 | 🔵 Model finally converges | 🌊 Hans Zimmer — epic, orchestral, triumphant |
 | 🟡 Stack trace 47 lines deep | 🎸 Linkin Park — intense, relatable, in the zone |
-| 🔴 Segfault at 2am | 🎸 Metallica — loud, fast, no mercy |
+| 🔴 Code breaks  | 🎸 Heavy Metal — loud, fast, no mercy |
 | ⚫ Monday morning debugging | ☕ Lo-fi beats — just survive |
 
 <br/>
