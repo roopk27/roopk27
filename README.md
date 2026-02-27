@@ -137,18 +137,11 @@ class RoopKiran:
 
 ## `> ORBIT STATS` 🌍
 
-<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roopk27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=00d4ff&icon_color=a78bfa&text_color=c0caf5" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=roopk27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=00d4ff&icon_color=a78bfa&text_color=c0caf5&ring_color=00d4ff" width="48%" />
-<img src="https://streak-stats.demolab.com?user=roopk27&theme=tokyonight&hide_border=true&background=0d0d2b&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roopk27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=00d4ff&text_color=c0caf5" width="38%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roopk27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=00d4ff&icon_color=a78bfa&text_color=c0caf5&hide=stars&include_all_commits=true&count_private=true" width="48%" />
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopk27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=00d4ff&text_color=c0caf5" width="38%" />
-</div>
-
----
 
 
 
