@@ -7,12 +7,12 @@
 <div align="center">
 
 ```
-  ✦ ˚ · .  Somewhere between a server rack and a star,  . · ˚ ✦
-           I found my place in the universe —
-           building applications that breathe,
-           studying storage stacks that remember,
-           teaching machines to see —
-           in a lab at the edge of the midwest sky.
+      ✦ ˚ · .  Somewhere between a server rack and a star,  . · ˚ ✦
+                 I found my place in the universe —
+                 building applications that breathe,
+                 studying storage stacks that remember,
+                 teaching machines to see —
+                 in a lab at the edge of the midwest sky.
 ```
 
 </div>
