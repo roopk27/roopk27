@@ -137,7 +137,6 @@ class RoopKiran:
 
 ## `> ORBIT STATS` 🌍
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roopk27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=00d4ff&icon_color=a78bfa&text_color=c0caf5" width="48%" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roopk27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=00d4ff&text_color=c0caf5" width="38%" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roopk27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=00d4ff&icon_color=a78bfa&text_color=c0caf5&hide=stars&include_all_commits=true&count_private=true" width="48%" />
