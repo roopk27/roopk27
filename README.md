@@ -169,7 +169,19 @@ class RoopKiran:
 </div>
 
 ---
+## `> KEY PROJECTS` 💻
 
+<div align="center">
+
+🚧 *Great things take time — and something exciting is brewing.* 🚧
+
+<br/>
+
+![Coming Soon](https://img.shields.io/badge/🔭_Projects-COMING_SOON-00d4ff?style=for-the-badge&labelColor=0d0d2b&color=a78bfa)
+
+*"Still processing...... Stay tuned."*
+
+</div>
 
 ---
 
@@ -187,9 +199,7 @@ class RoopKiran:
 
 <div align="center">
 
-
-<img src="https://komarev.com/ghpvc/?username=roopk27&label=🛸+Visitors+from+across+the+universe&color=0d0d2b&style=flat&labelColor=0d0d2b&color=00d4ff" />
-
+<img src="https://komarev.com/ghpvc/?username=roopk27&label=🛸+Visitors+from+across+the+universe&style=for-the-badge&labelColor=0d0d2b&color=00d4ff" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a1a6e,100:0d0d2b&height=120&section=footer" />
