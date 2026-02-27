@@ -61,7 +61,7 @@ class RoopKiran:
     roles       = [
         "💻 Application Developer",
         "🗄️ Storage Stack Researcher",
-        "🎓 PhD Candidate @ Iowa State University"
+        "🎓 PhD Student @ Iowa State University"
     ]
     affiliation = "Data Storage Lab · Electrical And Computer Engineering Dept.ISU"
     coordinates = "ece.iastate.edu/~mai/lab/dsl.html"
