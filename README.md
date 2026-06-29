@@ -29,8 +29,6 @@
 <!-- Role badges -->
 <img src="https://img.shields.io/badge/💻 Application Developer-00d4ff?style=for-the-badge&labelColor=0d0d2b&color=00d4ff" />
 <img src="https://img.shields.io/badge/🗄️ Storage Stack Researcher-a78bfa?style=for-the-badge&labelColor=0d0d2b&color=a78bfa" />
-<img src="https://img.shields.io/badge/🎓 PhD Student @ Iowa State-4a90d9?style=for-the-badge&labelColor=0d0d2b&color=4a90d9" />
-
 </div>
 
 ---
@@ -61,7 +59,7 @@ class RoopKiran:
     roles       = [
         "💻 Application Developer",
         "🗄️ Storage Stack Researcher",
-        "🎓 PhD Student @ Iowa State University"
+        "🎓 Graduate Student @ Iowa State University"
     ]
     affiliation = "Data Storage Lab · Electrical And Computer Engineering Dept.ISU"
     coordinates = "ece.iastate.edu/~mai/lab/dsl.html"
